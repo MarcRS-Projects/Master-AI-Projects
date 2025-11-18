@@ -1,4 +1,4 @@
---------------------------------------------------------------------------------------------------------------------------------------
+---
 # Master-AI-Projects
 This repository contains the projects and practical exercises completed during my Master's degree in Artificial Intelligence.
 It includes a wide range of topics such as machine learning, deep learning, data processing, and more.
