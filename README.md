@@ -4,4 +4,4 @@ This repository is for uploading my projects that i do in my Master on Artificia
 ## Themes
 ### 🤖 Supervised Machine Learning
 - Linear Regresion:
-- [LinearRegresion(S&M)](LinearRegresion/LinearRegresion(S&M).ipynb)
+-- [LinearRegresion(S&M)](LinearRegresion/LinearRegresion(S&M).ipynb)
