@@ -6,7 +6,6 @@ Each folder corresponds to a different module or concept covered throughout the 
 
 ---
 
-
 ## Themes
 ### 🤖 Supervised Machine Learning
 - Linear Regresion:
