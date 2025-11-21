@@ -10,3 +10,5 @@ Each folder corresponds to a different module or concept covered throughout the 
 ### 🤖 Supervised Machine Learning
 - Linear Regresion:
   - [LinearRegresion(S&M)](LinearRegresion/LinearRegresion(S&M).ipynb)
+- Logistic Regresion:
+  - [LogisticRegresion(S&M)](LogisticRegresion/LogisticRegresion.ipynb)
