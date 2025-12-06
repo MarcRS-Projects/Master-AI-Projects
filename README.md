@@ -8,7 +8,12 @@ Each folder corresponds to a different module or concept covered throughout the 
 
 ## Themes
 ### 🤖 Supervised Machine Learning
-- Linear Regresion:
+#### 🐍 Python  
+- Linear Regression:
   - [LinearRegresion(S&M)](LinearRegresion/LinearRegresion(S&M).ipynb)
-- Logistic Regresion:
+
+- Logistic Regression:
   - [LogisticRegresion(S&M)](LogisticRegresion/LogisticRegresion.ipynb)
+ 
+
+#### <img src="https://www.r-project.org/logo/Rlogo.png" width="40"/> R
