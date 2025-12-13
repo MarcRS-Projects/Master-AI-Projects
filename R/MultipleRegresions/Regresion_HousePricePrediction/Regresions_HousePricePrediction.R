@@ -527,7 +527,7 @@ var_exp_acum <- cumsum(var_exp)
 plot(var_exp_acum, type = "b", pch = 19, col = "blue",
      xlab = "Número de Componentes",
      ylab = "Varianza explicada acumulada",
-     main = "Scree plot - PCA")
+     main = "PCA")
 abline(h = 0.90, col = "red", lty = 2)    # Linea para ver el % deseado mas facil
 
 # Escalamos el PCA de train a validation y test
@@ -638,7 +638,7 @@ best_lambda_lasso
 plot(log(lambdas), rmse_lasso, type="b", pch=19,
      main="Selección de lambda - LASSO",
      xlab="log(lambda)", ylab="RMSE (Validation)")
-abline(v=log(best_lambda_lasso), col="darkblue", lty=2)
+abline(v=log(best_lambda_lasso), col="red", lty=2)
 
 # Modelo final
 pred_val_lasso  <- predict(lasso_model, s=best_lambda_lasso, newx=X_val_mat)
@@ -681,7 +681,7 @@ best_lambda_ridge
 plot(log(lambdas_r), rmse_ridge, type="b", pch=19,
      main="Selección de lambda - RIDGE",
      xlab="log(lambda)", ylab="RMSE (Validation)")
-abline(v=log(best_lambda_ridge), col="lightgreen", lty=2)
+abline(v=log(best_lambda_ridge), col="red", lty=2)
 
 # Modelo final
 pred_val_ridge  <- predict(ridge_model, s=best_lambda_ridge, newx=X_val_mat)
