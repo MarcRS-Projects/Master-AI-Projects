@@ -13,6 +13,8 @@ Each folder corresponds to a different module or concept covered throughout the 
     - [LinearRegresion_BostonDF(S&M)](Python/LinearRegresion/LinearRegresion_BostonDF/LinearRegresion_BostonDF(S&M).ipynb)
 - Logistic Regression:
     - [LogisticRegresion_ChurnDF](Python/LogisticRegresion/LogisticRegresion_ChurnDF/LogisticRegresion_ChurnDF.ipynb)
+- Data Exploration:
+    - [MinistryOfMagic_DataExploration](Python/DataExploration/Ministry_of_Magic/MinistryOfMagic_DataExploration.ipynb)
 <br><br>
 
 #### <img src="https://www.r-project.org/logo/Rlogo.png" width="20"/>  R
