@@ -15,17 +15,15 @@ Each folder corresponds to a different module or concept covered throughout the 
     - [ChurnDF](Python/LogisticRegresion/ChurnDF/ChurnDF.ipynb)
 - Data Exploration:
     - [MinistryOfMagic](Python/DataExploration/Ministry_of_Magic/MinistryOfMagic.ipynb)
-<br>
 
 #### <img src="https://www.r-project.org/logo/Rlogo.png" width="20"/>  R
 - Multiple Regressions (Linear/Lasso/Ridge):
     - [HousePricePrediction](R/MultipleRegresions/HousePricePrediction/HousePricePrediction.R)
+<br>
 
-<br><br>
 ### 🧩 Unsupervised Machine Learning
 #### <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" width="20"/>  Python 
 - KMeans:
     - [ONGDistribution](Python/KMeans/ONGDistribution/ONGDistribution.ipynb)
-<br>
 
 #### <img src="https://www.r-project.org/logo/Rlogo.png" width="20"/>  R
